@@ -42,8 +42,8 @@ class Libretto:
 
 voto_1 = Voto("Analisi Matematica 1", 10, 28,
               False, "2022-02-10")
-voto_2 = Voto("Basi di Dati", 8, 30, True,
-              "2023-06-15")
+voto_2 = Voto("Basi di Dati", 8, 30,
+              True,"2023-06-15")
 
 mio_libretto = Libretto()
 mio_libretto.append(voto_1)
