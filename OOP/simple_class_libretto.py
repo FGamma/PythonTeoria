@@ -96,3 +96,10 @@ miei_voti = [voto_1, voto_2]
 # Qui Python usa __repr__ e non __str__. Se non avessi definito __repr__
 # ma solo __str__ la stampa mi mostra i riferimenti in una lista.
 print(f"Chiama __repr__ print(miei_voti): {miei_voti}")
+
+mio_libretto = Libretto()
+mio_libretto.append(voto_1)
+mio_libretto.append(voto_2)
+
+print(f"Media: {mio_libretto.media()}")
+
