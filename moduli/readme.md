@@ -1,4 +1,4 @@
-# Modules in Python
+# Moduli in Python
 
 Esempi pratici sull’uso dei **moduli** in Python.
 
