@@ -39,3 +39,9 @@ Confronto tra:
 Esempio pratico con una classe `Coniglio`.
 
 ---
+
+### 5. setter_getter_car
+Implemento l'equivalente di getter e setter in Python usando il costrutto
+@property.
+
+---
