@@ -41,7 +41,17 @@ Esempio pratico con una classe `Coniglio`.
 ---
 
 ### 5. setter_getter_car
-Implemento l'equivalente di getter e setter in Python usando il costrutto
+Implementa l'equivalente di getter e setter in Python usando il costrutto
 @property.
+
+---
+
+### 6. dunder_metodi_frazione
+Implementa i seguenti metodi dunder:
+- **Dunder init**
+- **Dunder str**
+- **Dunder repr**
+- **Dunder add**
+
 
 ---
