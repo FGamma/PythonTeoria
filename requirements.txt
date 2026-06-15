@@ -1,2 +1,4 @@
 flet~=0.28.3
 mysql-connector-python~=9.5.0
+numpy
+pandas
